@@ -1,81 +1,59 @@
-<h6 align="center">Hi, I'm Daniel (Datne) – Tech Enthusiast & Problem Solver</h6>
+<h1 align="center">Hi, I'm Daniel (Datne) – Tech Enthusiast & Problem Solver</h1>
 
-###
+<p align="center">
+  <img src="https://media.tenor.com/tYt_f8qF9pYAAAAd/hack-hacker.gif" width="100%" alt="Hacking GIF" />
+</p>
 
-<br clear="both">
+<p align="center">Apaixonado por tecnologia, games e hacking. Gosto de transformar coisas difíceis em código e desenvolver soluções para a web.</p>
 
-<p align="center">Apaixonado por tecnologia, games e hacking. Gosto de transformar coisas difíceis em código e desenvolver soluções para a web</p>
+---
 
-###
+## 👩‍💻 About Me
+**🧠 Aprendendo:** Inglês e Russo (Privet!).  
+**🎮 Hobbies:** Games e entusiasta de hardware.  
+**⚡ Curiosidade:** "Datne" é meu apelido no mundo tech.  
 
-<h2 align="center">👩‍💻  About Me</h2>
+---
 
-###
-
-<h6 align="left">🧠 Aprendendo: inglês e russo.<br>🎮 Hobbies: Games e entusiasta de hardware.<br>⚡ Curiosidade: "Datne" é meu apelido no mundo tech.</h6>
-
-###
-
-<h2 align="center">🛠 Language and tools</h2>
-
-###
-
-<br clear="both">
-
+## 🛠 Languages and Tools
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="32" alt="threejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="32" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" height="32" alt="krakenjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+## 🔥 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castro7-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Castro7-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Castro7-7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Castro7-7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Castro7-7&show_icons=true&theme=dracula&locale=pt-br" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Castro7-7&layout=compact&theme=dracula&langs_count=4" height="150" alt="languages graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Castro7-7&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Castro7-7&theme=dracula&column=4&row=1" height="150" alt="trophy graph" />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/snake.svg" alt="Snake animation" />
+## 🐍 Snake Contribution Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/github-contribution-grid-snake.svg">
+</picture>
 
-###
-
-<br clear="both">
-
-<img align="right" height="51" src="https://media.tenor.com/tYt_f8qF9pYAAAAd/hack-hacker.gif"  />
-
-###
+---
 
 <div align="center">
-  <a href="https://www.instagram.com/casstrodo7/?utm_source=ig_web_button_share_sheet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=purple&labelColor=&style=plastic" height="24" alt="instagram logo"  />
+  <a href="https://www.instagram.com/casstrodo7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="wa.me/5542999479163" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25S069&logoColor=white&labelColor=&style=plastic" height="24" alt="whatsapp logo"  />
+  <a href="https://wa.me/5542999479163" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
   </a>
 </div>
-
-###
