@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castro7-7&theme=dracula&hide_border=false" alt="Streak Stats" />
 </p>
-
 ---
 
 ### 👾 Pacman Activity
@@ -55,4 +54,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWpmZDVnZHdwZ3l4endqYzd6b3k3YWZ3bW85MG81OTlxODh1dnBibiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/rqxRG3jWyWZN8u3VMy/giphy.gif" width="60%" height="auto" style="object-fit: cover;" />
 </p>
----
+
