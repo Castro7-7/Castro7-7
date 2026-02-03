@@ -28,9 +28,9 @@
 ---
 
 ### 🔥 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castro7-7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Castro7-7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 ---
 
 ### 👾 Pacman Activity
