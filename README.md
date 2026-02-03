@@ -27,14 +27,11 @@
 
 ---
 
-### 🔥 My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castro7-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Castro7-7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Castro7-7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+### 🔥 My Stats 
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Castro7-7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /></div>
 
 ---
+
 
 ### 👾 Pacman Activity
 <p align="center">
