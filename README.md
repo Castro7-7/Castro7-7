@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Daniel (Datne) – Tech Enthusiast & Problem Solver</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hZmwzNXVrcms1MzJkNGgyc3RxbWU3b3hsMjE3b2k3cmc0ODdjbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100%" height="150px" style="object-fit: cover;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hZmwzNXVrcms1MzJkNGgyc3RxbWU3b3hsMjE3b2k3cmc0ODdjbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4B1BTOMTi8b3OdPrzy/giphy.gif" width="100%" height="350px" style="object-fit: cover;" />
 </p>
 
 <p align="center">
