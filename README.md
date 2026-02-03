@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Daniel (Datne) – Tech Enthusiast & Problem Solver</h2>
 
 <p align="center">
-  <img src="https://media.tenor.com/tYt_f8qF9pYAAAAd/hack-hacker.gif" width="100%" alt="Hacker Matrix GIF" />
+  <img src="[https://media.tenor.com/tYt_f8qF9pYAAAAd/hack-hacker.gif](https://tenor.com/bXSez.gif)](https://media.tenor.com/thF-4X-idtEAAAAj/hack-hacker.gif)" width="100%" alt="Hacker Matrix GIF" />
 </p>
 
 <p align="center">
@@ -27,25 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="35" alt="threejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="35" alt="firebase logo" />
 </div>
 
 ---
 
 ### 🔥 My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Castro7-7&mode=daily&theme=dracula&border_radius=5" height="160" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castro7-7&theme=dracula&hide_border=false" alt="streak graph" />
 </div>
 
 ---
 
 ### 👾 Pacman Activity
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Castro7-7/Castro7-7/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%">
 </p>
 
 ---
@@ -59,5 +54,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" alt="whatsapp" />
   </a>
 </div>
-
-<br>
