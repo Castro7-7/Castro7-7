@@ -29,7 +29,7 @@
 
 ### 🔥 My Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castro7-7&theme=dracula&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Castro7-7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 ---
 
