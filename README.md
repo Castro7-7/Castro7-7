@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Daniel (Datne) – Tech Enthusiast & Problem Solver</h2>
+<h2 align="center">Hi, I'm Daniel (Castro) – Tech Enthusiast & Problem Solver</h2>
 
 
 <p align="center">
