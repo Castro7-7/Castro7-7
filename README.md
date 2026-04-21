@@ -10,7 +10,6 @@
 ### 👩‍💻 About Me
 * 🧠 **Aprendendo:** Inglês e Russo.
 * 🎮 **Hobbies:** Games e entusiasta de hardware.
-* ⚡ **Curiosidade:** "Datne" é meu apelido no mundo tech.
 
 ---
 
